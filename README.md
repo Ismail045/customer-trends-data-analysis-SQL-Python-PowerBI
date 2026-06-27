@@ -192,5 +192,5 @@ This project is for educational purposes.
 ## 🙋‍♂️ Author
 
 **MO.Ismail Khan**  
-📧 your.email@example.com  
+📧 khanismail45118@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ismail-khan-9997562a8 )
